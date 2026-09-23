@@ -1,0 +1,5 @@
+.DS_Store
+.vscode/
+bst_log_analyzer
+*.dSYM/
+system_log.txt
